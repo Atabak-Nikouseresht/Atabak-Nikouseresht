@@ -1,16 +1,15 @@
-## Hi there 👋
+# Atabak Nikouseresht
 
-<!--
-**Atabak-Nikouseresht/Atabak-Nikouseresht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Applied Economics & Markets  
+Financial Risk · Data Science · Tokenization
 
-Here are some ideas to get you started:
+## Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Banking Tokenization Risk
+- IEEE-CIS Fraud Detection
+- Fraud Detection Application
+- Macrofinancial Risk Modeling
+
+## Tech
+
+Python · SQL · Power BI · Stata · XGBoost · scikit-learn
