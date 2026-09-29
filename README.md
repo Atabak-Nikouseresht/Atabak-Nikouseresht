@@ -27,7 +27,3 @@ I build reproducible analytical workflows for financial and economic data, spann
 ## Current research
 
 Banking tokenization, digital-asset exposure, and financial-system risk.
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/atabak-nikouseresht) · [GitHub](https://github.com/Atabak-Nikouseresht)
