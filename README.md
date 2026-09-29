@@ -1,22 +1,22 @@
 # Atabak Nikouseresht
 
-MSc candidate in Applied Economics and Markets at the University of Bologna, working across **data analytics, financial risk, econometrics, and fintech**.
+MSc candidate in Applied Economics and Markets at the University of Bologna, focused on data analytics, financial risk, and fintech.
 
-I use Python and Stata to analyze financial and economic data, build fraud-classification workflows, and make empirical research reproducible. These repositories are independent research and academic projects—not professional trading or production risk systems.
+I build reproducible analytical workflows for financial and economic data, spanning fraud modeling, systematic market research, econometrics, and digital-asset risk.
 
 [LinkedIn](https://linkedin.com/in/atabak-nikouseresht)
 
 ## Start here
 
-- **[Hermes Crypto Lab](https://github.com/Atabak-Nikouseresht/hermes-crypto-lab)** — systematic-market research and governed forward paper validation, with locked strategy provenance, execution safeguards, persistent state, and tests. Paper only; no live capital or profitability claim.
-- **[IEEE-CIS Fraud Detection](https://github.com/Atabak-Nikouseresht/ieee-fraud-detection-xgboost)** — XGBoost workflow for a large, imbalanced transaction dataset; the committed notebook records a held-out validation ROC-AUC of 0.942.
-- **[Fraud Detection Streamlit App](https://github.com/Atabak-Nikouseresht/fraud-detection-streamlit-ml)** — a local interactive prediction demo backed by a saved scikit-learn pipeline; useful for inspecting an end-to-end modeling-to-interface workflow.
-- **[Portfolio Theory — Asset Allocation](https://github.com/Atabak-Nikouseresht/portfolio-theory-asset-allocation)** — collaborative University of Bologna report on portfolio optimization and asset pricing. The report is present; the analysis code is not currently available in the repository.
+- **[Hermes Crypto Lab](https://github.com/Atabak-Nikouseresht/hermes-crypto-lab)** — systematic-market research with public financial data, tested pipelines, execution safeguards, and research governance.
+- **[IEEE-CIS Fraud Detection](https://github.com/Atabak-Nikouseresht/ieee-fraud-detection-xgboost)** — XGBoost and imbalanced classification; the saved notebook records a held-out validation ROC-AUC of 0.942.
+- **[Fraud Detection Streamlit App](https://github.com/Atabak-Nikouseresht/fraud-detection-streamlit-ml)** — a model-to-interface workflow for interactive fraud-classification predictions.
 
-## Other empirical work
+## Finance and economics research
 
-- **[Investment Deflator: ARDL and Cointegrated VAR](https://github.com/Atabak-Nikouseresht/econometrics-investment-deflator-ARDL-VAR)** — course report applying time-series methods to investment-deflator inflation; source code and input data are not included.
-- **[Education and High-Skill Employment in the Netherlands](https://github.com/Atabak-Nikouseresht/educational-attainment-highskill-nl)** — Stata output and report using IPUMS International 2011 microdata; the licensed input extract and analysis do-file are not included.
+- **[Portfolio Theory — Asset Allocation](https://github.com/Atabak-Nikouseresht/portfolio-theory-asset-allocation)** — University of Bologna analysis of portfolio optimization, efficient frontiers, asset pricing, and Black–Litterman allocation.
+- **[Investment Deflator: ARDL and Cointegrated VAR](https://github.com/Atabak-Nikouseresht/econometrics-investment-deflator-ARDL-VAR)** — time-series analysis of investment-deflator inflation using ARDL, cointegration, and VAR/VECM methods.
+- **[Education and High-Skill Employment in the Netherlands](https://github.com/Atabak-Nikouseresht/educational-attainment-highskill-nl)** — applied microeconometrics using IPUMS International 2011 data, OLS/logit models, and predicted margins.
 
 ## Methods and tools
 
