@@ -20,9 +20,9 @@ I use Python and Stata to analyze financial and economic data, build fraud-class
 
 ## Methods and tools
 
-**Data & ML:** Python · pandas · scikit-learn · XGBoost · Streamlit · DuckDB
-**Econometrics:** Stata · time-series analysis · OLS/logit · cointegration
-**Research practice:** Jupyter · Git · automated tests · data and result provenance
+- **Data & ML:** Python · pandas · scikit-learn · XGBoost · Streamlit · DuckDB
+- **Econometrics:** Stata · time-series analysis · OLS/logit · cointegration
+- **Research practice:** Jupyter · Git · automated tests · data and result provenance
 
 ## Current research
 
