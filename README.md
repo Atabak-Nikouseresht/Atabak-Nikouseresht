@@ -16,9 +16,9 @@ I apply Python and quantitative methods to financial and economic questions, bui
 
 ### Finance and econometrics — academic work
 
-- **[Portfolio Theory and Asset Allocation](https://github.com/Atabak-Nikouseresht/portfolio-theory-asset-allocation)** — quantitative-finance report covering mean–variance allocation, efficient frontiers, and Black–Litterman; original code and data are unavailable.
-- **[Investment Deflator Econometrics](https://github.com/Atabak-Nikouseresht/econometrics-investment-deflator-ARDL-VAR)** — applied time-series report using ARDL, cointegration, and VAR analysis; source code and data are unavailable.
-- **[Education and High-Skill Employment](https://github.com/Atabak-Nikouseresht/educational-attainment-highskill-nl)** — large-sample, cross-sectional Stata/IPUMS study using LPM, logit, and predicted margins; the source workflow and microdata are unavailable.
+- **[Portfolio Theory and Asset Allocation](https://github.com/Atabak-Nikouseresht/portfolio-theory-asset-allocation)** — archival collaborative report covering mean–variance allocation, efficient frontiers, and Black–Litterman; original code and data are unavailable. [Errata](https://github.com/Atabak-Nikouseresht/portfolio-theory-asset-allocation/blob/main/ERRATA.md).
+- **[Investment Deflator Econometrics](https://github.com/Atabak-Nikouseresht/econometrics-investment-deflator-ARDL-VAR)** — archival collaborative time-series report using ARDL, cointegration, and VAR analysis; source code and data are unavailable. [Errata](https://github.com/Atabak-Nikouseresht/econometrics-investment-deflator-ARDL-VAR/blob/main/ERRATA.md).
+- **[Education and High-Skill Employment](https://github.com/Atabak-Nikouseresht/educational-attainment-highskill-nl)** — archival collaborative, cross-sectional Stata/IPUMS report using LPM, logit, and predictive margins; the source workflow and microdata are unavailable. [Errata](https://github.com/Atabak-Nikouseresht/educational-attainment-highskill-nl/blob/main/ERRATA.md).
 
 ## Methods and tools
 
